@@ -1,0 +1,8 @@
+# UAS_Dasprog
+Tugas Ujian Akhir Semmester 1
+Program Toko Fotokopi Dalam Bahasa C++
+
+Nama  : Arphan Maulana Firdaus
+NIM   : 2230511140
+Prodi : Teknik Informatika 1C
+Universitas Muhammaadiyah Sukabumi
